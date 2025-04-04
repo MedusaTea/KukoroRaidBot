@@ -8,6 +8,7 @@ Either way, it's a nice quick reference for setting up a twitch chat bot client 
 
 ## File Guide
 bot.js contains the setup for hooking a bot up to listen and send messages via twitch's tmi package
+
 commandList.js contains commands to intercept from chat, structured with an action to take, permission access level and command description
 
 ## English
